@@ -5,7 +5,7 @@ Clone at https://github.com/nawarkhede/vsplcrepo
 
 Sample Azure django project. With pre-installed third party libraries which are not available on pip.
 
-1. Login to https://manage.windowsazure.com/  with valid credentials
+1. Login to https://manage.windowsazure.com/  with valid credentials.
 2. Go to WEBSITES category from left side menu.
 3. Click on NEW link at the left bottom at the page.
 4. Go to compute-website-quick create option.
