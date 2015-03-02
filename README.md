@@ -1,7 +1,7 @@
 # azure-sample
 Hello Azure - from Python Django
 
-Clone at https://github.com/nawarkhede/vsplcrepo
+Clone at https://github.com/nawarkhede/azure-sample
 
 Sample Azure django project. With pre-installed third party libraries which are not available on pip.
 
